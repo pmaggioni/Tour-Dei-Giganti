@@ -1,27 +1,17 @@
-# 🏍️ Tour Dei Giganti
+# 🏍️ Tour dei Giganti - Dolomiti in Moto
 
-Un sito web dedicato al tour motociclistico attraverso le Dolomiti - Patrimonio UNESCO.
+Un itinerario di 5 giorni attraverso i passi più spettacolari delle Dolomiti per veri appassionati di moto.
 
-## 🗺️ Il Progetto
-Sito informativo completo per il tour motociclistico Dolomiti 2024, con:
-- Mappe interattive dei percorsi
-- Informazioni dettagliate sulle tappe
-- Download di materiale utile (GPX, PDF, checklist)
-- Galleria partecipanti
-- Informazioni tecniche e consigli
+## 🗺️ Itinerario
+- **Giorno 1**: Torino → Cortina d'Ampezzo (350km)
+- **Giorno 2**: Cortina → Bormio (280km)
+- **Giorno 3**: Anello Stelvio + Austria (220km)
+- **Giorno 4**: Bormio → Bolzano (280km)
+- **Giorno 5**: Bolzano → Torino (320km)
 
-## 🚀 Funzionalità
-- **Design responsive** per mobile e desktop
-- **Navigazione intuitiva** tra le sezioni
-- **Mappe integrate** con percorsi andata/ritorno
-- **Download organizzati** per file GPX, PDF e checklist
-- **Interfaccia moderna** con animazioni fluide
+## 🚀 Come Usare
+1. Clona il repository
+2. Apri `index.html` nel browser
+3. Esplora l'itinerario giorno per giorno
 
 ## 📁 Struttura
-Tour-Dolomiti-Moto/
-├── assets/ # Immagini e media
-├── css/ # Stili e design
-├── downloads/ # File scaricabili
-├── js/ # Funzionalità interattive
-├── index.html # Pagina principale
-└── README.md # Documentazione
