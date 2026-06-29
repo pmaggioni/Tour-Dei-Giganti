@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2025-11-22T12:41:47Z</time>
+    <time>2026-06-22T14:11:33Z</time>
     <bounds maxlat="47.223958969116211" maxlon="12.110581398010254" minlat="45.062355911359191" minlon="7.662813663482666" />
   </metadata>
 
@@ -674,10 +674,6 @@ TO, ITA</desc>
       <trp:Trip>
         <trp:TransportationMode>Automotive</trp:TransportationMode>
       </trp:Trip>
-      <tmd:TripMetaData>
-        <tmd:TripName>Itinerario a Bolzano</tmd:TripName>
-        <tmd:DayNumber>1</tmd:DayNumber>
-      </tmd:TripMetaData>
     </extensions>
     <rtept lat="45.062355995178223" lon="7.67993688583374">
       <time>2025-11-22T12:37:27Z</time>
@@ -16656,7 +16652,7 @@ BZ, ITA</desc>
       <sym>City (Medium)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -19424,7 +19420,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -19566,7 +19562,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -19711,7 +19707,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -19843,7 +19839,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -19966,7 +19962,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -20579,7 +20575,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -20732,7 +20728,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -21227,7 +21223,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -21997,7 +21993,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22224,7 +22220,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22429,7 +22425,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22638,7 +22634,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22806,7 +22802,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22895,7 +22891,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -22999,7 +22995,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23105,7 +23101,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23342,7 +23338,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23429,7 +23425,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23565,7 +23561,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23592,7 +23588,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23731,7 +23727,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -23966,7 +23962,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24212,7 +24208,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24318,7 +24314,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24345,7 +24341,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24536,7 +24532,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24621,7 +24617,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -24731,7 +24727,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -26853,7 +26849,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -26902,7 +26898,7 @@ BZ, ITA</desc>
       <sym>Flag, Blue</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -27007,7 +27003,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <vptm:ViaPointTransportationMode>
@@ -27102,7 +27098,7 @@ BZ, ITA</desc>
       <sym>Waypoint</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -27148,7 +27144,7 @@ BZ, ITA</desc>
       <sym>Flag, Blue</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -27233,7 +27229,7 @@ BZ, ITA</desc>
       <sym>City (Small)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -28515,7 +28511,7 @@ BZ, ITA</desc>
       <sym>City (Medium)</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:CalculationMode>ShorterDistance</trp:CalculationMode>
+          <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
         <gpxx:RoutePointExtension>
@@ -35827,10 +35823,6 @@ Val Müstair, Grigioni, 7536, CHE</desc>
       <trp:Trip>
         <trp:TransportationMode>Automotive</trp:TransportationMode>
       </trp:Trip>
-      <tmd:TripMetaData>
-        <tmd:TripName>Itinerario a Torino2</tmd:TripName>
-        <tmd:DayNumber>1</tmd:DayNumber>
-      </tmd:TripMetaData>
     </extensions>
     <rtept lat="46.466867923736572" lon="10.379569530487061">
       <time>2025-11-22T12:39:59Z</time>

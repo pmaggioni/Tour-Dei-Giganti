@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2025-11-22T12:41:18Z</time>
+    <time>2026-06-22T14:10:32Z</time>
     <bounds maxlat="46.495428085327148" maxlon="11.353472834452987" minlat="45.062355911359191" minlon="7.663006782531738" />
   </metadata>
 
@@ -78,10 +78,6 @@ TO, ITA</desc>
       <trp:Trip>
         <trp:TransportationMode>Automotive</trp:TransportationMode>
       </trp:Trip>
-      <tmd:TripMetaData>
-        <tmd:TripName>Itinerario a Bolzano</tmd:TripName>
-        <tmd:DayNumber>1</tmd:DayNumber>
-      </tmd:TripMetaData>
     </extensions>
     <rtept lat="45.062355995178223" lon="7.67993688583374">
       <time>2025-11-22T12:37:27Z</time>

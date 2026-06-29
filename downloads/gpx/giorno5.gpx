@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2025-11-22T12:41:26Z</time>
+    <time>2026-06-22T14:11:23Z</time>
     <bounds maxlat="46.466867923736572" maxlon="10.379612445831299" minlat="45.062355911359191" minlon="7.662813663482666" />
   </metadata>
 
@@ -78,10 +78,6 @@ TO, ITA</desc>
       <trp:Trip>
         <trp:TransportationMode>Automotive</trp:TransportationMode>
       </trp:Trip>
-      <tmd:TripMetaData>
-        <tmd:TripName>Itinerario a Torino2</tmd:TripName>
-        <tmd:DayNumber>1</tmd:DayNumber>
-      </tmd:TripMetaData>
     </extensions>
     <rtept lat="46.466867923736572" lon="10.379569530487061">
       <time>2025-11-22T12:39:59Z</time>
